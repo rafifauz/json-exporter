@@ -1,0 +1,46 @@
+{
+    "prtg-version": "20.2.59.1689",
+    "treesize": 4,
+    "histdata": [
+        {
+            "datetime": "18/02/2025 07:39:26",
+            "Traffic Total (volume)": 9738.0000,
+            "Traffic Total (speed)": 324.3837,
+            "Traffic In (volume)": 9738.0000,
+            "Traffic In (speed)": 324.3837,
+            "Traffic Out (volume)": 0.0000,
+            "Traffic Out (speed)": 0.0000,
+            "coverage": "100 %"
+        },
+        {
+            "datetime": "18/02/2025 07:39:56",
+            "Traffic Total (volume)": 9348.0000,
+            "Traffic Total (speed)": 311.7039,
+            "Traffic In (volume)": 9348.0000,
+            "Traffic In (speed)": 311.7039,
+            "Traffic Out (volume)": 0.0000,
+            "Traffic Out (speed)": 0.0000,
+            "coverage": "100 %"
+        },
+        {
+            "datetime": "18/02/2025 07:40:26",
+            "Traffic Total (volume)": 9870.0000,
+            "Traffic Total (speed)": 329.0000,
+            "Traffic In (volume)": 9870.0000,
+            "Traffic In (speed)": 329.0000,
+            "Traffic Out (volume)": 0.0000,
+            "Traffic Out (speed)": 0.0000,
+            "coverage": "100 %"
+        },
+        {
+            "datetime": "18/02/2025 07:40:56",
+            "Traffic Total (volume)": 9686.0000,
+            "Traffic Total (speed)": 322.8667,
+            "Traffic In (volume)": 9686.0000,
+            "Traffic In (speed)": 322.8667,
+            "Traffic Out (volume)": 0.0000,
+            "Traffic Out (speed)": 0.0000,
+            "coverage": "100 %"
+        }
+    ]
+}
