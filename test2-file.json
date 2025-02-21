@@ -5,7 +5,7 @@
         {
             "datetime": "18/02/2025T07:39:26",
             "Traffic Total": 9738,
-            "Traffic Total (speed)": 324,
+            "Traffic_Total_(speed)": 324,
             "Traffic In (volume)": 9738,
             "Traffic In": 324,
             "Traffic Out (volume)": 0,
@@ -15,7 +15,7 @@
         {
             "datetime": "18/02/2025 07:39:56",
             "Traffic Total": 9348,
-            "Traffic Total (speed)": 311,
+            "Traffic_Total_(speed)": 311,
             "Traffic In (volume)": 9348,
             "Traffic In": 311,
             "Traffic Out (volume)": 0,
