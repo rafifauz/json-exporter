@@ -1,78 +1,46 @@
 {
-    "prtg-version": "20.2.59.1689",
-    "treesize": 4,
-    "histdata": [
-        {
-            "datetime": "18/02/2025 07:39:26",
-            "datetime_raw": 45706.3190513079,
-            "value": "9,51 KB",
-            "value_raw": 9738.0000,
-            "value": "2,60 kbit/s",
-            "value_raw": 324.3837,
-            "value": "9,51 KB",
-            "value_raw": 9738.0000,
-            "value": "2,60 kbit/s",
-            "value_raw": 324.3837,
-            "value": "0 KB",
-            "value_raw": 0.0000,
-            "value": "0 kbit/s",
-            "value_raw": 0.0000,
-            "coverage": "100 %",
-            "coverage_raw": 10000
-        },
-        {
-            "datetime": "18/02/2025 07:39:56",
-            "datetime_raw": 45706.3193985301,
-            "value": "9,13 KB",
-            "value_raw": 9348.0000,
-            "value": "2,49 kbit/s",
-            "value_raw": 311.7039,
-            "value": "9,13 KB",
-            "value_raw": 9348.0000,
-            "value": "2,49 kbit/s",
-            "value_raw": 311.7039,
-            "value": "0 KB",
-            "value_raw": 0.0000,
-            "value": "0 kbit/s",
-            "value_raw": 0.0000,
-            "coverage": "100 %",
-            "coverage_raw": 10000
-        },
-        {
-            "datetime": "18/02/2025 07:40:26",
-            "datetime_raw": 45706.3197457523,
-            "value": "9,64 KB",
-            "value_raw": 9870.0000,
-            "value": "2,63 kbit/s",
-            "value_raw": 329.0000,
-            "value": "9,64 KB",
-            "value_raw": 9870.0000,
-            "value": "2,63 kbit/s",
-            "value_raw": 329.0000,
-            "value": "0 KB",
-            "value_raw": 0.0000,
-            "value": "0 kbit/s",
-            "value_raw": 0.0000,
-            "coverage": "100 %",
-            "coverage_raw": 10000
-        },
-        {
-            "datetime": "18/02/2025 07:40:56",
-            "datetime_raw": 45706.3200929745,
-            "value": "9,46 KB",
-            "value_raw": 9686.0000,
-            "value": "2,58 kbit/s",
-            "value_raw": 322.8667,
-            "value": "9,46 KB",
-            "value_raw": 9686.0000,
-            "value": "2,58 kbit/s",
-            "value_raw": 322.8667,
-            "value": "0 KB",
-            "value_raw": 0.0000,
-            "value": "0 kbit/s",
-            "value_raw": 0.0000,
-            "coverage": "100 %",
-            "coverage_raw": 10000
-        }
-    ]
+  "prtg-version": "20.2.59.1689",
+  "treesize": 4,
+  "histdata": [
+    {
+      "datetime": "18/02/2025 07:39:26",
+      "Traffic_Total_(volume)": 9738.0000,
+      "Traffic_Total_(speed)": 324.3837,
+      "Traffic_In_(volume)": 9738.0000,
+      "Traffic_In_(speed)": 324.3837,
+      "Traffic_Out_(volume)": 0.0000,
+      "Traffic_Out_(speed)": 0.0000,
+      "coverage": "100 %"
+    },
+    {
+      "datetime": "18/02/2025 07:39:56",
+      "Traffic_Total_(volume)": 9348.0000,
+      "Traffic_Total_(speed)": 311.7039,
+      "Traffic_In_(volume)": 9348.0000,
+      "Traffic_In_(speed)": 311.7039,
+      "Traffic_Out_(volume)": 0.0000,
+      "Traffic_Out_(speed)": 0.0000,
+      "coverage": "100 %"
+    },
+    {
+      "datetime": "18/02/2025 07:40:26",
+      "Traffic_Total_(volume)": 9870.0000,
+      "Traffic_Total_(speed)": 329.0000,
+      "Traffic_In_(volume)": 9870.0000,
+      "Traffic_In_(speed)": 329.0000,
+      "Traffic_Out_(volume)": 0.0000,
+      "Traffic_Out_(speed)": 0.0000,
+      "coverage": "100 %"
+    },
+    {
+      "datetime": "18/02/2025 07:40:56",
+      "Traffic_Total_(volume)": 9686.0000,
+      "Traffic_Total_(speed)": 322.8667,
+      "Traffic_In_(volume)": 9686.0000,
+      "Traffic_In_(speed)": 322.8667,
+      "Traffic_Out_(volume)": 0.0000,
+      "Traffic_Out_(speed)": 0.0000,
+      "coverage": "100 %"
+    }
+  ]
 }
